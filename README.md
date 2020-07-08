@@ -20,3 +20,8 @@ Check cert id and term used in jq template with:
 Replace the Dicicert certifiate with order# 12345
 
     ./replace.sh 12345 jdoe@example.net
+
+for something fancier, see also:
+
+https://github.com/GEANT/digicert2sectigo
+
