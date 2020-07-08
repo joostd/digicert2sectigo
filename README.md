@@ -1,6 +1,8 @@
 Quick and dirty bulk replacement of Digicert server certificates 
 (https://knowledge.digicert.com/alerts/DigiCert-ICA-Replacement)
 
+_NOTE: this code doesn't seem to handle SANs well, check for updates soon_
+
 Requires:
 
 - a list of Digicert order numbers with requester email address
